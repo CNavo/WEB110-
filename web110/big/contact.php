@@ -48,27 +48,12 @@
      </nav>
     </header>
        
-    <!-- START LEFT COLUMN -->
-    <section>
-        <h2 class="subheader">Welcome</h2>
-        <h3>Objective of the BIG page</h3> 
-        <p>The purpose of this Website is to provide easy introduction pieces on creating responsive and easily accessible Webpages.</p>
-        <h3>Success into the Future</h3>
-        <p>In order to maintain and preserve the knowledge received in the WEB110 course.  The internet is filled with Youtube videos, college-type webinars, and other free educational resources for keeping your web-developing skills fresh, up-to-date, and professional. Also Seattle Central College provides continual Web-related courses to continue your path towards success.</p>
-        
+    
+    <section class="fullwidth">
+        <h2>Contact Chris</h2>
+        <p>Watch the supporting instructional video to create the contents for this page</p>
     </section>
-    <!-- END LEFT COLUMN -->
-
-    <!-- START RIGHT COLUMN -->
-    <aside>
-        <h3>My Favorite Web Resources</h3>
-        <ul>
-              <li><a href="https://www.w3schools.com/">w3schools</a></li>
-              <li><a href="https://www.linkedin.com/learning/">Linkedin Learning</a></li>
-              <li><a href="https://www.edx.org/learn/web-development">edX</a></li>
-        </ul>
-    </aside>
-    <!-- END RIGHT COLUMN -->
+    
      
     <footer>
       <p><small>&copy; 2019 by <a href="contact.php">Contact Chris Navoczynski</a>, All Rights Reserved ~ <a href="http://validator.w3.org/check/referer" target="_blank">Valid HTML</a> ~ <a href="http://jigsaw.w3.org/css-validator/check?uri=referer" target="_blank">Valid CSS</a></small></p>
