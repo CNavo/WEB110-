@@ -59,16 +59,34 @@ address {
     width:100%;
 }
 
-figure {
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  padding-top: 0.5em;
+img {
+    border:1px solid #000;
+}
+
+div.gallery {
+    text-align: center;
+}
+
+figure.gallery {
+  display:inline-block;
+  margin:.25%;
 }
 
 
+figure.smo{
+  
+  border:1px solid #000;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  text-align: center;
+  margin:1%;
+  padding-top: 1em;
+}
+
+
+
+ 
 
 /*START -EMBED RESPONSIVELY STYLES */
 .embed-container {
